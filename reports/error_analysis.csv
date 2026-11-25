@@ -1,0 +1,7 @@
+split,ngram_order,total_events,oov_tokens,total_word_tokens,oov_rate_percent,unseen_types,unseen_occurrences,unseen_rate_percent,unseen_context_types,events_with_unseen_context
+validation,1,176319,9345,173865,5.3749,0,0,0.0,0,0
+validation,2,176319,9345,173865,5.3749,41631,47900,27.1667,0,0
+validation,3,176319,9345,173865,5.3749,113533,120579,68.3868,41303,47520
+test,1,198344,12367,195455,6.3273,0,0,0.0,0,0
+test,2,198344,12367,195455,6.3273,45724,53093,26.7681,0,0
+test,3,198344,12367,195455,6.3273,125818,134530,67.8266,45273,52551

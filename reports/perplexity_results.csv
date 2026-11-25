@@ -1,0 +1,7 @@
+split,model,mle_perplexity,laplace_perplexity
+validation,1-gram,"1,148.0200","1,154.8116"
+validation,2-gram,infinity,"3,891.6000"
+validation,3-gram,infinity,"20,526.7658"
+test,1-gram,"1,108.8657","1,114.5293"
+test,2-gram,infinity,"3,725.9710"
+test,3-gram,infinity,"20,038.0091"
